@@ -24,7 +24,6 @@ namespace HabitTracker {
         bool pauseButtonSave = false;
         int rowsInUse = ROW_COUNT;
 
-
         public Form1() {
             InitializeComponent();
         }
